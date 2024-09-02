@@ -1,11 +1,10 @@
-
 # RevServer
 
 [![Python](https://img.shields.io/badge/Python-%E2%89%A5%203.6-yellow.svg)](https://www.python.org/)
 
 
 ## Purpose
-RevServer is a small Framework that can generate curl commands for reverse shells and can host files on a webserver
+RevServer is a small Framework that can generate curl commands for reverse shells and can host files on a webserver. It can also start a simple netcat listener. (more features will be added soon)
 
 Main features are:
 - Start a webserver that hosts files for both windows and linux,
